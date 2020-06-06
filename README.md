@@ -1,2 +1,0 @@
-# ozziemwoan
-project website
